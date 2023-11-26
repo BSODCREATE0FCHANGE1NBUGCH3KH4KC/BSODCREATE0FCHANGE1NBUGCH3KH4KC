@@ -1,0 +1,6 @@
+x=msgbox("There was an fatal error opening the file "PCData.vbs". Please redownload or clean memory.", 0+48, "Windows")
+x=msgbox("Please wait..." 0+64, "Windows")
+x=msgbox("Cleaning memory...", 0+64, "Windows")
+x=msgbox("Warning! You have detected 1093 fatal errors and 69420 viruses!", 0+48, "CCleaner")
+x=msgbox("You have been hacked!", 0+16, "Windows")
+x=msgbox("JK! *just kiddin'*", 0+0, "Just kidding!")

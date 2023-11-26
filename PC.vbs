@@ -1,0 +1,7 @@
+x=msgbox("Cannot open folder fatal error --*23/3/**1**--*-*//-*/**3404. Do you want to try removing space?", 0+16, "Windows")
+x=msgbox("Cannot clean data. DO YOU WANT TO clean memory?", 0+48, "Windows")
+x=msgbox("Please wait...", 0+64, "Clean Memory Windows")
+x=msgbox("Unable to open due to spyware and malware.", 0+16, "Windows")
+x=msgbox("C nn t c  an  il s. D  o n ############!!!!!", 0+48, "W nd ws")
+x=msgbox("", 0+0, "")
+x=msgbox("Windows needs recovery because the file is broken.", 0+48, "Windows")
